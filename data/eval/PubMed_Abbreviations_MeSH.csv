@@ -1,0 +1,331 @@
+50580,MRI,magnetic resonance imaging,D008279
+48054,BMI,body mass index,D015992
+45890,CT,computed tomography,D000072098
+42919,NO,nitric oxide,D009569
+42320,ROS,reactive oxygen species,D017382
+42072,PCR,polymerase chain reaction,D016133
+41060,AD,Alzheimer's disease,D000544
+35266,LPS,lipopolysaccharide,C082161
+35101,IL,interleukin,D007378
+34679,CI,confidence interval,D016001
+33202,OS,overall survival,NONE
+30626,HIV,human immunodeficiency virus,D006678
+30428,CNS,central nervous system,D000697
+29916,HCC,hepatocellular carcinoma,D006528
+27906,RA,rheumatoid arthritis,D001172
+26350,PD,Parkinson's disease,D010300
+23533,BP,blood pressure,D001794
+23426,VEGF,vascular endothelial growth factor,D042461
+23343,ELISA,enzyme-linked immunosorbent assay,D004797
+23243,HCV,hepatitis C virus,D016174
+22962,CSF,cerebrospinal fluid,D002555
+21842,MS,multiple sclerosis,D009103
+18823,LV,left ventricular,D014694
+18721,CRP,C-reactive protein,D002097
+18403,ER,endoplasmic reticulum,D004721
+18216,SOD,superoxide dismutase,D013482
+17774,SNPs,single nucleotide polymorphisms,D020641
+17721,NSCLC,non-small cell lung cancer,D002289
+17681,MR,magnetic resonance,D009682
+17520,COPD,chronic obstructive pulmonary disease,D029424
+17172,TNF,tumor necrosis factor,D008233
+17112,SLE,systemic lupus erythematosus,D008180
+17019,PKC,protein kinase C,C475887
+16996,CAD,coronary artery disease,D003324
+16741,HBV,hepatitis B virus,D006509
+16711,PET,positron emission tomography,D049268
+16448,MI,myocardial infarction,D009203
+16244,BMD,bone mineral density,D015519
+15721,HR,heart rate,D006339
+15640,ECM,extracellular matrix,D005109
+15393,OR,odds ratio,D016017
+15294,IFN,interferon,D007372
+15151,WT,wild-type,C081296
+15080,ICU,intensive care unit,D007362
+15068,DA,dopamine,D004298
+15011,CVD,cardiovascular disease,D002318
+14996,TB,tuberculosis,D014376
+14733,CRC,colorectal cancer,D015179
+14428,SEM,scanning electron microscopy,D008855
+14404,ED,emergency department,D004636
+14309,EGFR,epidermal growth factor receptor,D066246
+14110,MDA,malondialdehyde,D008315
+14096,AF,atrial fibrillation,D001281
+13769,NK,natural killer,D007694
+13748,CKD,chronic kidney disease,D051436
+13742,IL,interleukin-6,D015850
+13514,HPV,human papillomavirus,D027383
+13385,EBV,Epstein-Barr virus,D004854
+12869,OA,osteoarthritis,D010003
+12839,GH,growth hormone,D013006
+12361,EGF,epidermal growth factor,D066246
+12040,PFS,progression-free survival,D000077982
+12038,WHO,World Health Organization,D014944
+11661,MAPK,mitogen-activated protein kinase,D048052
+11638,TEM,transmission electron microscopy,D017348
+11603,CIs,confidence intervals,D016001
+11482,HF,heart failure,D006333
+11382,MHC,major histocompatibility complex,D008285
+10934,CHD,coronary heart disease,D003327
+10906,AML,acute myeloid leukemia,D004915
+10898,AMI,acute myocardial infarction,D056989
+10876,TBI,traumatic brain injury,D000070642
+10852,CF,cystic fibrosis,D003550
+10825,PCI,percutaneous coronary intervention,D062645
+10820,IOP,intraocular pressure,D007429
+10728,QOL,quality of life,D011788
+10444,fMRI,functional magnetic resonance imaging,D008279
+10370,ER,estrogen receptor,D011960
+10119,GI,gastrointestinal,D005765
+10074,IBD,inflammatory bowel disease,D003424
+9887,LDH,lactate dehydrogenase,D007770
+9857,CMV,cytomegalovirus,D003587
+9735,SCI,spinal cord injury,D013119
+9703,HPLC,high-performance liquid chromatography,D002851
+9624,DM,diabetes mellitus,D003920
+9614,OR,odds ratio,D016017
+9579,DCs,dendritic cells,D003713
+9557,GFP,green fluorescent protein,C485184
+9433,QoL,quality of life,D011788
+9428,miRNAs,microRNAs,D035683
+9234,XRD,X-ray diffraction,D014961
+9186,LH,luteinizing hormone,D007986
+9177,LDL,low-density lipoprotein,D008077
+9017,ACh,acetylcholine,D000109
+9004,mRNA,messenger RNA,D012333
+8992,NMR,nuclear magnetic resonance,D009682
+8922,FDA,Food and Drug Administration,D014486
+8867,ROC,receiver operating characteristic,D012372
+8815,miRNAs,MicroRNAs,D035683
+8788,CI,confidence intervals,D016001
+8783,AUC,area under the curve,D019540
+8743,PSA,prostate-specific antigen,D017430
+8736,BM,bone marrow,D001853
+8692,ORs,odds ratios,D016017
+8673,NPs,nanoparticles,D053758
+8663,DFT,density functional theory,D000077318
+8654,US,ultrasound,Q000000981
+8576,RCTs,randomized controlled trials,D016032
+8474,FISH,fluorescence in situ hybridization,D017404
+8401,BBB,blood-brain barrier,D001812
+8348,MM,myeloma,D009101
+8261,PTH,parathyroid hormone,D010281
+8225,ALL,acute lymphoblastic leukemia,D054198
+8206,CAT,catalase,D002374
+8193,PTSD,posttraumatic stress disorder,D013313
+8161,GFR,glomerular filtration rate,D005919
+8120,T2DM,type 2 diabetes mellitus,D003924
+8118,PBMC,peripheral blood mononuclear cells,NONE
+8112,OCT,optical coherence tomography,D041623
+8083,CD,Crohn's disease,D003424
+8070,BDNF,brain-derived neurotrophic factor,D019208
+8056,ALT,alanine aminotransferase,D000410
+7966,UV,ultraviolet,D008860
+7958,Ig,immunoglobulin,D007136
+7950,ALP,alkaline phosphatase,D000469
+7854,iNOS,inducible nitric oxide synthase,D052247
+7838,BSA,bovine serum albumin,D012710
+7809,MRI,Magnetic resonance imaging,D008279
+7779,MAP,mean arterial pressure,D062186
+7721,ART,antiretroviral therapy,D023241
+7668,5-FU,5-fluorouracil,D005472
+7656,DFS,disease-free survival,D018572
+7656,AFM,atomic force microscopy,D018625
+7607,NGF,nerve growth factor,D020932
+7589,PBMCs,peripheral blood mononuclear cells,NONE
+7561,ALS,amyotrophic lateral sclerosis,D000690
+7516,MRSA,methicillin-resistant Staphylococcus aureus,D055624
+7497,ESRD,end-stage renal disease,D007676
+7441,MSCs,mesenchymal stem cells,D059630
+7408,RNAi,RNA interference,D034622
+7372,UC,ulcerative colitis,D003093
+7369,RCC,renal cell carcinoma,D002292
+7340,NO,Nitric oxide,D009569
+7302,IHC,immunohistochemistry,D007150
+7287,PAHs,polycyclic aromatic hydrocarbons,D011084
+7199,HD,hemodialysis,D006435
+7155,SNP,single nucleotide polymorphism,D020641
+7139,SCC,squamous cell carcinoma,D002294
+7124,PGE2,prostaglandin E2,D015232
+7014,HDL,high-density lipoprotein,D053440
+6964,ECG,electrocardiogram,D004562
+6906,AChE,acetylcholinesterase,D000110
+6837,COX,cyclooxygenase-2,D051546
+6798,pts,patients,D010361
+6760,AR,androgen receptor,D011944
+6755,IgG,immunoglobulin G,C077495
+6755,MD,molecular dynamics,D056004
+6673,siRNA,small interfering RNA,D034741
+6669,MDD,major depressive disorder,D003865
+6662,ANOVA,analysis of variance,D000704
+6631,ERK,extracellular signal-regulated kinase,D048052
+6628,RT,radiotherapy,Q000532
+6602,ACL,anterior cruciate ligament,D016118
+6583,SBP,systolic blood pressure,NONE
+6526,Hb,hemoglobin,D006454
+6371,MMP,matrix metalloproteinase,D020781
+6339,SNPs,single-nucleotide polymorphisms,D020641
+6336,IV,intravenous,D000771
+6326,RR,relative risk,D012306
+6262,STZ,streptozotocin,D013311
+6246,PCa,prostate cancer,D011471
+6223,MS,mass spectrometry,D053719
+6177,EAE,encephalomyelitis,D004679
+6154,HR,hazard ratio,NONE
+6148,VAS,visual analog scale,D010147
+6125,MTX,methotrexate,D008727
+6108,LOS,length of stay,D007902
+6050,mAb,monoclonal antibody,C498150
+6049,BAL,bronchoalveolar lavage,D018893
+6029,VAS,visual analogue scale,D010147
+6005,HPLC,high performance liquid chromatography,D002851
+5985,PA,physical activity,D015444
+5954,CABG,coronary artery bypass grafting,D001026
+5932,CT,Computed tomography,D000072098
+5898,CEA,carcinoembryonic antigen,D002272
+5859,HLA,human leukocyte antigen,C095004
+5821,TG,triglyceride,D008049
+5798,GFAP,glial fibrillary acidic protein,D005904
+5777,ATP,adenosine triphosphate,D000255
+5759,NSCLC,non-small-cell lung cancer,D002289
+5758,PEG,polyethylene glycol,D011092
+5745,PKA,protein kinase A,C475887
+5741,CBF,cerebral blood flow,D002560
+5705,mTOR,mammalian target of rapamycin,D058570
+5693,AEs,adverse events,D064420
+5683,EEG,electroencephalogram,D004569
+5611,PPV,positive predictive value,NONE
+5609,TC,total cholesterol,NONE
+5599,AD,Alzheimer disease,D000544
+5598,HRV,heart rate variability,NONE
+5583,LTP,long-term potentiation,D017774
+5560,EMT,epithelial-mesenchymal transition,D058750
+5498,HRP,horseradish peroxidase,D006735
+5448,XPS,X-ray photoelectron spectroscopy,D056951
+5443,VTE,venous thromboembolism,D054556
+5425,PCA,principal component analysis,D025341
+5424,CT,computed tomographic,D014055
+5411,CD,circular dichroism,D002942
+5317,AMD,age-related macular degeneration,D008268
+5315,TKA,total knee arthroplasty,D019645
+5314,MCI,mild cognitive impairment,D060825
+5292,GVHD,graft-versus-host disease,D006086
+5271,ACS,acute coronary syndrome,D054058
+5225,eGFR,estimated glomerular filtration rate,NONE
+5215,CYP,cytochrome P450,D003577
+5203,PDT,photodynamic therapy,D010778
+5192,HCV,Hepatitis C virus,D016174
+5191,TNF,tumor necrosis factor-a,D008233
+5132,KO,knockout,D018345
+5104,CHF,congestive heart failure,D006333
+5092,AST,aspartate aminotransferase,D001219
+5082,CLL,chronic lymphocytic leukemia,D015451
+5054,OSA,obstructive sleep apnea,D020181
+5048,mAbs,monoclonal antibodies,D000911
+5027,OR,odds ratios,D016017
+5016,LVEF,left ventricular ejection fraction,NONE
+4991,PCBs,polychlorinated biphenyls,D011078
+4926,DSC,differential scanning calorimetry,D002152
+4897,DHA,docosahexaenoic acid,C037169
+4895,SES,socioeconomic status,D012923
+4880,AKI,acute kidney injury,D058186
+4870,MetS,metabolic syndrome,D024821
+4819,RBC,red blood cell,D004906
+4802,CV,cardiovascular,D002317
+4784,HUVECs,human umbilical vein endothelial cells,D061307
+4782,SAH,subarachnoid hemorrhage,D013345
+4771,EEG,electroencephalography,D004569
+4743,OVA,ovalbumin,D010047
+4737,NPC,nasopharyngeal carcinoma,D000077274
+4710,HCC,Hepatocellular carcinoma,D006528
+4708,ASD,autism spectrum disorder,D000067877
+4704,EF,ejection fraction,D013318
+4673,AMPK,AMP-activated protein kinase,D055372
+4671,PE,pulmonary embolism,D011655
+4667,HRQoL,health-related quality of life,D011788
+4644,P-gp,P-glycoprotein,D020168
+4644,Cd,cadmium,D002104
+4642,miRNA,microRNA,D035683
+4620,PD,peritoneal dialysis,D010530
+4610,MCA,middle cerebral artery,D020244
+4601,CR,complete remission,NONE
+4565,MSM,men who have sex with men,D000072339
+4516,ADC,apparent diffusion coefficient,NONE
+4514,CENTRAL,Central Register of Controlled Trials,NONE
+4473,HD,Huntington's disease,D006816
+4461,IVF,in vitro fertilization,D005307
+4441,GPs,general practitioners,D058005
+4435,HPA,hypothalamic-pituitary-adrenal,NONE
+4427,WT,wild type,C081296
+4416,HBsAg,hepatitis B surface antigen,D006514
+4352,NPV,negative predictive value,NONE
+4351,IL,Interleukin,D007378
+4349,APP,amyloid precursor protein,D000685
+4339,ECs,endothelial cells,D042783
+4337,HRs,hazard ratios,NONE
+4309,US,ultrasonography,D014463
+4299,LDL,low-density lipoprotein cholesterol,D008078
+4289,T2D,type 2 diabetes,D003924
+4258,MIC,minimum inhibitory concentration,D008826
+4240,SNR,signal-to-noise ratio,D059629
+4235,RV,right ventricular,D014694
+4200,ROM,range of motion,D016059
+4189,CR,complete response,NONE
+4181,CML,chronic myeloid leukemia,D015464
+4168,GCS,gas chromatography-mass spectrometry,D008401
+4168,RSV,respiratory syncytial virus,D018357
+4167,GPx,glutathione peroxidase,D005979
+4163,JNK,c-Jun N-terminal kinase,D048031
+4147,HRQOL,health-related quality of life,D011788
+4146,ABA,abscisic acid,D000040
+4141,PFC,prefrontal cortex,D017397
+4132,QDs,quantum dots,D045663
+4130,THA,total hip arthroplasty,NONE
+4092,ADHD,attention-deficit/hyperactivity disorder,D001289
+4044,BC,breast cancer,D001943
+4033,HSA,human serum albumin,D013668
+4028,PR,progesterone receptor,D011980
+3995,RPE,retinal pigment epithelium,D055213
+3970,ROS,Reactive oxygen species,D017382
+3965,DTI,diffusion tensor imaging,D056324
+3946,GnRH,gonadotropin-releasing hormone,D007987
+3939,ARDS,acute respiratory distress syndrome,D012128
+3927,TG,triglycerides,D014280
+3926,SD,standard deviation,NONE
+3920,EMG,electromyography,D004576
+3908,IOL,intraocular lens,D007910
+3891,NIR,near-infrared,D019265
+3876,OGTT,oral glucose tolerance test,D005951
+3871,LOD,limit of detection,D057230
+3841,SPR,surface plasmon resonance,D020349
+3835,RBCs,red blood cells,D004912
+3833,HSCT,hematopoietic stem cell transplantation,D018380
+3832,BALF,bronchoalveolar lavage fluid,D001992
+3806,DBP,diastolic blood pressure,NONE
+3805,SSc,systemic sclerosis,D012595
+3797,CPR,cardiopulmonary resuscitation,D016887
+3748,RF,radiofrequency,D000078703
+3739,AD,atopic dermatitis,D003876
+3709,FA,fractional anisotropy,NONE
+3702,HFD,high-fat diet,D059305
+3649,MS,Multiple sclerosis,D009103
+3635,HA,hyaluronic acid,D006820
+3603,HR,hazard ratio,NONE
+3580,WC,waist circumference,D055105
+3541,DOX,doxorubicin,D004317
+3535,PTSD,post-traumatic stress disorder,D013313
+3513,RCTs,randomised controlled trials,NONE
+3507,AS,ankylosing spondylitis,D013167
+3486,RT,radiation therapy,Q000532
+3482,HNSCC,head and neck squamous cell carcinoma,D000077195
+3463,HC,healthy controls,NONE
+3377,AF,Atrial fibrillation,D001281
+3332,GC,gastric cancer,D013274
+3232,Zn,zinc,D015032
+3185,GDM,gestational diabetes mellitus,D016640
+3126,PR,partial response,C510644
+3096,TB,Tuberculosis,D014376
+3021,PK,pharmacokinetic,D000071184
+2994,ROC,Receiver operating characteristic,D012372
+2919,MTD,maximum tolerated dose,D020714
+2889,PK,pharmacokinetics,D010599

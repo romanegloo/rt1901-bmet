@@ -1,0 +1,37 @@
+Term 1,Term2,Score
+Anemia,Appendicitis,0.031
+Dementia,Atopic Dermatitis,0.062
+Bacterial Pneumonia,Malaria,0.156
+Osteoporosis,Patent Ductus Arteriosus,0.156
+Amino Acid Sequence,AntiBacterial,Agents
+Acquired Immunodeficiency Syndrome,Congenital Heart Defects,0.062
+Otitis Media,Infantile Colic,0.156
+Meningitis,Tricuspid Atresia,0.031
+Sinusitis,Mental Retardation,0.031
+Hypertension,Kidney Failure,0.5
+Hyperlipidemia,Hyperkalemia,0.156
+Hypothyroidism,Hyperthyroidism,0.406
+Sarcoidosis,Tuberculosis,0.406
+Vaccines,Immunity,0.593
+Asthma,Pneumonia,0.375
+Diabetic Nephropathy,Diabetes Mellitus,0.5
+Lactose Intolerance,Irritable Bowel Syndrome,0.468
+Urinary Tract Infection,Pyelonephritis,0.656
+Neonatal Jaundice,Sepsis,0.187
+Sickle Cell Anemia,Iron Deficiency Anemia,0.437
+Psychology,Cognitive Science,0.593
+Adenovirus,Rotavirus,0.437
+Migraine,Headache,0.718
+Myocardial Ischemia,Myocardial Infarction,0.75
+Hepatitis B,Hepatitis C,0.562
+Carcinoma,Neoplasm,0.75
+Pulmonary Valve Stenosis,Aortic Valve Stenosis,0.531
+Failure to Thrive,Malnutrition,0.625
+Breast Feeding,Lactation,0.843
+Antibiotics,Antibacterial Agents,0.937
+Seizures,Convulsions,0.843
+Pain,Ache,0.875
+Malnutrition,Nutritional Deficiency,0.875
+Measles,Rubeola,0.906
+Chicken Pox,Varicella,0.968
+Down Syndrome,Trisomy 21,0.875
